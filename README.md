@@ -11,7 +11,7 @@
 <a href= "https://www.linkedin.com/in/ramiro-ribeiro-168a94208/" target="_blank">
 <img align="center" alt="linkedin-ramiro" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"
 style ="max-width:'100%">
-  
+</a>  
 ## Skills
 <img align="center" alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
 style ="max-width:'100%"> </img>
