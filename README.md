@@ -16,10 +16,10 @@ style ="max-width:'100%">
 ## Skills
 
 <center><br>
-<div style="float:left; width:33%"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></div>
-<div style="float:left; width:33%"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"</div>
-<div style="float:left; width:33%"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-<div style="float:left; width:33%"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></div></div>
+<img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+<img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </center><br>
 
 <hr>
