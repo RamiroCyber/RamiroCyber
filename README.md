@@ -22,7 +22,7 @@ style ="max-width:'100%">
 <div style="float:left; width:33%"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></div></div>
 </center><br>
 
-
+<hr>
 
 <!--
 
