@@ -5,7 +5,7 @@
  - I am looking for an opportunity to raise my knowledge even further. :computer:
  - I have knowledge in java, html and css for now ... 📖
  - I'm studying cloud at AWS Academy ☁️
-<hr>
+
 
 ## Connect with me 📡 
 <a href= "https://www.linkedin.com/in/ramiro-ribeiro-168a94208/" target="_blank" references="external">
