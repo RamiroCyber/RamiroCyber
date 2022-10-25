@@ -3,7 +3,7 @@
 
  - I live in 🇧🇷 northesst 🌅
  - I am looking for an opportunity to raise my knowledge even further. :computer:
- - I have knowledge in java, html and css for now ... 📖
+ - I have knowledge in Golang, Flutter, vue.js ... 📖
  - I'm studying cloud at AWS Academy ☁️
 
 
