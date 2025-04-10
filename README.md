@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎 Formado em Análise e Desenvolvimento de Sistemas<br>🚀 Pós graduando em Engenharia de Software<br>🏢 Trabalho como Desenvolvedor Full Stack na empresa Fix Pay
+🌎 Formado em Análise e Desenvolvimento de Sistemas<br>🚀 Pós graduando em Engenharia de Software<br>🏢
 
 
 ## 🌐 Socials:
