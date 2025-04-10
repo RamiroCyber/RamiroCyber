@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌎 Formado em Análise e Desenvolvimento de Sistemas<br>🚀 Pós graduando em Engenharia de Software<br>🏢
+🌎 Formado em Análise e Desenvolvimento de Sistemas<br>🚀 Pós graduando em Engenharia de Software<br>
 
 
 ## 🌐 Socials:
